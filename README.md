@@ -50,7 +50,7 @@ Designed CNN-based Q-learning agents using DQN and DDQN. Achieved mean rewards o
 
 ---
 
-## GitHub Stats (optional if using metrics plugin)
+## GitHub Stats
 
 ![Swabhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swabhipapneja&show_icons=true&theme=default)
 
